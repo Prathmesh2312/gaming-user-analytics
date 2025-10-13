@@ -65,4 +65,6 @@ The analysis maps the player funnel from **Registration → First Deposit → Fi
 
 ---
 
+👨‍💻 **Author:** Prathmesh Raut  
+📌 *MSc Computer Science | Data Analyst | Data Science & Machine Learning Enthusiast*  
 
