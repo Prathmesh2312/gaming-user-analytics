@@ -1,4 +1,4 @@
-# 🎮 Gaming Analytics Case Study: Player Funnel, Conversion & Retention Analysis
+# 🎮 Gaming Analytics: Player Funnel, Conversion & Retention Analysis
 
 ## 🧩 Overview
 This project analyzes player behavior for a gaming company, focusing on understanding **conversion, retention, and engagement** patterns across the player journey.
