@@ -1,4 +1,4 @@
-# 🎮 Gaming Analytics: End-to-End Player Funnel, Revenue & Retention Analysis
+# 🎮 Customer Retention & Churn Analysis for an Online Gaming Platform
 
 ## 📌 Project Overview
 
